@@ -37,12 +37,12 @@ Implementation of always-on mode with ambient display.
 - **Google Maps SDK:** Enables route mapping with a visual path for pace and distance.
 - **Gradle:** Advanced setup utilizing version catalogs, convention plugins, and multi-module architecture for optimized build performance and code separation.
 - **Dynamic Feature Modules:** Modular design to load features on demand, improving performance and reducing app size.
-- **Ktor:** A custom backend ([Running Tracker Backend](https://github.com/ahmed-guedmioui/Running-Tracker-API)) that manages users server side.
+- **Ktor:** A custom backend that manages users server side.
 - **Android Ktor:** For network operations and communication with the backend.
 - **MongoDB:** A remote database solution for storage and real-time access to user data across devices.
 
 ## Getting Started
-- Clone the repo: git clone https://github.com/ahmed-guedmioui/Running-Tracker-App.git
+- Clone the repo: git clone https://github.com/riggedved/running-tracker.git
 - Open the project in Android Studio.
 - Build the project and run it on your preferred device or emulator.
 
